@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rehab - Full Stack Web Developer
+👋 Hi, I’m Rehab - Full Stack Web Developer
 I'm a skilled and experienced full-stack developer with a passion for building secure, scalable, and user-friendly web applications using Laravel, React, and Angular.
 Expertise:
 
