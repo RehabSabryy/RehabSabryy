@@ -5,6 +5,6 @@ Expertise:
 
 About Me:
 
-I am a recent graduate with a Professional Diploma in Full Stack Web Development. I am committed to delivering high-quality work that meets or exceeds client expectations. I believe in open and transparent communication throughout the project lifecycle.
+I am a graduate with a Professional Diploma in Full Stack Web Development. I am committed to delivering high-quality work that meets or exceeds client expectations. I believe in open and transparent communication throughout the project lifecycle.
 
 I am always looking for new and challenging projects. Feel free to reach out to discuss your web development needs!
